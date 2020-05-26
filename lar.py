@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 banner = """
-                                LARAVEL AUTO EXPLOT V 0.1 ISSUE 2
+                                LARAVEL AUTO EXPLOIT V 0.1 ISSUE 2
 
                            ./Sultan.Konslet - Typical Idiot Security
 """
